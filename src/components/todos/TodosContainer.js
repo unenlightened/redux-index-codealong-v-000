@@ -11,4 +11,4 @@ class TodoContainer extends Component {
   }
 }
 
-export default connect()(TodoContainer)
+export default connect(state => todos: state.todos)(TodoContainer)
