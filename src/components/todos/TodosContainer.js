@@ -6,7 +6,7 @@ class TodoContainer extends Component {
   render() {
     return(
       <div>
-      <div>
+      </div>
     )
   }
 }
